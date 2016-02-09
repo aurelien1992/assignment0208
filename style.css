@@ -1,0 +1,26 @@
+html {
+  background-color: #003300 ;
+}
+
+h1 {
+  background-color: #009900 ;
+  color:#FFFF00;
+  border:40px solid green;
+}
+
+h2 {
+  background-color: #006666 ;
+  color: #CCFFFF;
+  border-top:2px dotted green;
+  border-bottom:5px solid green;
+}
+
+h3 {
+  color: #009999;
+  border-bottom:1px solid #330066;
+}
+
+h4 {
+  color: #0099FF;
+  background-color: #000033 ;
+}
